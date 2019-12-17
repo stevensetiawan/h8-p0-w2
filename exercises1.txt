@@ -1,0 +1,75 @@
+/* soal no.1 pseudocode
+set m = 600
+set a = 2
+set N = m * a
+display N
+
+algoritma :
+1. set variable m as 600
+2. set variable a as 2
+3. set variable N as multiply of m and a
+4. display result newton
+*/
+
+/* soal no.2
+set tahun = 1250
+if ((tahun mod 4 === 0 and tahun mod 100 !== 0) or ( tahun mod 4 == 0 and tahun mod 100 == 0 and mod 400 == 0)){
+  then display  "tahun kabisat"
+}
+else  display {"bukan tahun kabisat"};
+end if;
+
+algoritma :
+1. set variable tahun as 0
+2. input condition if (tahun modulo 4 === 0 and tahun modulo 100 !== 0) or ( tahun mod 4 == 0 and tahun mod 100 == 0 and mod 400 == 0)
+3. then display kabisat
+4. else bukan tahun kabisat 
+*/
+
+/* soal no.3
+set laundry = 0
+set baju = 20
+set mesin = off
+
+while baju !== 0
+increment laundry
+decrement baju
+if baju === 0 and laundry === 20
+then set maesin on
+else set mesin off
+end if
+end while
+
+algoritma :
+1. set variable laundry as 0
+2. set variable baju as 20
+3. set variable mesin as off
+4. keep loop while baju is not equal zero
+5. increment laundry
+6  decrement baju
+7. input condition if baju equal zero and laundry equal 20
+8. then set mesin on
+9. else mesin off
+*/
+
+/* soal no. 4
+set murid = 40;
+set count = 0;
+while count !=== 40;
+if murid has a long nail then
+display punish 
+elseif murid has a short nail then
+display praise 
+endif
+increment count
+endwhile
+
+algoritma :
+1.set variable murid as 40
+2.set variable count as 0
+3.keep loop while variable count is not equal 40
+4.input condition if murid has a long nail then display punish
+5.else if murid has a short nail display praise
+6.after it increment variable count
+*/
+
