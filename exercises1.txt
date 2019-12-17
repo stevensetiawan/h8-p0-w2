@@ -20,7 +20,7 @@ else  display {"bukan tahun kabisat"};
 end if;
 
 algoritma :
-1. set variable tahun as 0
+1. set variable tahun as 1250
 2. input condition if (tahun modulo 4 === 0 and tahun modulo 100 !== 0) or ( tahun mod 4 == 0 and tahun mod 100 == 0 and mod 400 == 0)
 3. then display kabisat
 4. else bukan tahun kabisat 
